@@ -11,7 +11,7 @@ It checks a few expectations about an instance of [Mantis bug tracker](https://m
 
 ## Installation
 
-1. Install the dependencies with composer: `composer install`
+Install the dependencies with composer: `composer install`
 
 ## Running
 
