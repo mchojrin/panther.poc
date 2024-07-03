@@ -7,7 +7,7 @@ It checks a few expectations about an instance of [Mantis bug tracker](https://m
 ## Requirements
 
 * PHP 8.3+
-* ChromeDriver and geckodriver
+* ChromeDriver and geckodriver (See [panther's documentation](https://github.com/symfony/panther?tab=readme-ov-file#installing-chromedriver-and-geckodriver) for this if you need help)
 
 ## Installation
 
