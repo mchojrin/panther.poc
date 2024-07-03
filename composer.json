@@ -1,0 +1,9 @@
+{
+  "require": {
+    "symfony/panther": "*"
+  },
+  "require-dev": {
+    "dbrekelmans/bdi": "^1.3",
+    "phpunit/phpunit": "*"
+  }
+}
