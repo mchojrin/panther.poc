@@ -1,6 +1,7 @@
 {
   "require": {
-    "symfony/panther": "*"
+    "symfony/panther": "*",
+    "php": ">=8.3"
   },
   "require-dev": {
     "dbrekelmans/bdi": "^1.3",

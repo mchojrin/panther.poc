@@ -1,4 +1,4 @@
-FROM php:alpine
+FROM php:8.3-alpine
 
 # Chromium and ChromeDriver
 ENV PANTHER_NO_SANDBOX 1
